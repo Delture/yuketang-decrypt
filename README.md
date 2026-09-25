@@ -5,7 +5,7 @@
 ## 安装
 
 1. 在浏览器中安装并启用 Tampermonkey 扩展。
-2. [点击安装脚本](https://raw.githubusercontent.com/Delture/yuketang-decrypt/main/yuketang-decrypt.user.js)，在扩展的安装页面确认安装。
+2. [前往 Greasy Fork 安装脚本](https://greasyfork.org/zh-CN/scripts/597388-%E9%9B%A8%E8%AF%BE%E5%A0%82-%E5%AD%A6%E5%A0%82%E5%9C%A8%E7%BA%BF-%E5%8A%A0%E5%AF%86%E5%AD%97%E4%BD%93%E8%BF%98%E5%8E%9F-%E6%B5%AE%E7%AA%97%E6%98%8E%E6%96%87)，点击“安装此脚本”，并在扩展的安装页面确认安装。
 3. 打开或刷新雨课堂、学堂在线中含加密字体的页面。
 
 若链接只显示源码，可在 Tampermonkey 中新建脚本，将本仓库的 `yuketang-decrypt.user.js` 全部内容粘贴并保存。
